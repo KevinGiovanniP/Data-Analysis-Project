@@ -1,0 +1,3 @@
+Customer purchases : https://public.tableau.com/app/profile/kevin2477/viz/E-commercePurchases/Dashboard1
+ 
+crypto : https://public.tableau.com/app/profile/kevin2477/viz/Comparisonbetweentwocryptoassets/Dashboard1?publish=yes
